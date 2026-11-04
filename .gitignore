@@ -1,0 +1,12 @@
+.venv/
+.idea/
+__pycache__/
+**/.ipynb_checkpoints/
+data/
+*.parquet
+*.7z
+*.zip
+*.csv
+outputs/
+work/
+.env
